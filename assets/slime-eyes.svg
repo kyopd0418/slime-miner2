@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+    <!-- Left Eye -->
+    <circle cx="60" cy="80" r="8" fill="#2d3436"/>
+    <circle cx="60" cy="80" r="4" fill="#ffffff"/>
+    
+    <!-- Right Eye -->
+    <circle cx="90" cy="80" r="8" fill="#2d3436"/>
+    <circle cx="90" cy="80" r="4" fill="#ffffff"/>
+</svg> 

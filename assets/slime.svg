@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150" height="150" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+    <!-- Slime Body -->
+    <ellipse cx="75" cy="100" rx="50" ry="40" fill="#00D1A0"/>
+    
+    <!-- Slime Highlights -->
+    <ellipse cx="60" cy="90" rx="15" ry="10" fill="#00E6B3" opacity="0.3"/>
+    
+    <!-- Slime Shadow -->
+    <ellipse cx="75" cy="110" rx="45" ry="20" fill="#00B38A" opacity="0.3"/>
+</svg> 
